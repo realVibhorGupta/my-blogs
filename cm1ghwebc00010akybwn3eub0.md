@@ -19,8 +19,6 @@ For developers, a container is a standard unit of software that packages up code
 
 ## Architecture of Docker :
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726904105411/a9380cfe-e2c6-4a93-a532-dc61c1da3e61.png align="center")
-
 So, the next step is how to start with Docker.
 
 Docker has three main stages: build, run, and push.
