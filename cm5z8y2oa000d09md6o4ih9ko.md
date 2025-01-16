@@ -26,7 +26,7 @@ At its core, a load balancer is a system that distributes incoming network traff
 
 ## The Atlassian Outage Case Study
 
-In the video, Arpit Bhayani discusses a real-world example involving the Atlassian outage. Despite having a load balancer in place, the company faced significant downtime, raising questions about the effectiveness of their setup. Here are some key points to understand:
+In this article,we discuss a real-world example involving the Atlassian outage. Despite having a load balancer in place, the company faced significant downtime, raising questions about the effectiveness of their setup. Here are some key points to understand:
 
 ### 1\. Not a Silver Bullet
 
@@ -67,5 +67,3 @@ The architecture of your system plays a crucial role in how effective your load 
 ## Conclusion
 
 Load balancers are powerful tools, but they are not magic solutions. The Atlassian outage highlights the need for a holistic approach to system design and maintenance. By understanding the limitations and best practices surrounding load balancers, developers and system architects can design more resilient systems. If you're a beginner, remember that sound architecture, continuous monitoring, and testing are just as crucial as having a load balancer in place.
-
-For more insightful discussions on system design and engineering best practices, consider following Arpit Bhayani and checking his educational resources.
