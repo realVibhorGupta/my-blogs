@@ -336,4 +336,4 @@ Move it to **Zustand** and measure:
 
 You’ll feel the difference immediately.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1765091873983/b20a4a28-8674-41b7-81f2-87ae618c3b75.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1765092181956/9d5edb85-a49b-4442-bdbb-64c80469971b.png align="center")
